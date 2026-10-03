@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mumbaban/Developer/cpp/cpp_lab/q01_sum_product_digits'
+relocations:     []
+...
